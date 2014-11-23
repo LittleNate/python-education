@@ -1,4 +1,4 @@
-python-education
+п»їpython-education
 ================
 
-Привет, мир! 
+РџСЂРёРІРµС‚, РјРёСЂ! 
